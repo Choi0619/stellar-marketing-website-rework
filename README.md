@@ -35,4 +35,4 @@ To see these modifications in action:
 2. The changes will be applied instantly.
 
 ## 📷 Result Preview
-![Website Screenshot]([image placeholder](https://github.com/user-attachments/assets/9a940e5b-37d1-4961-9ec2-895aed274127))
+![Website Screenshot](https://github.com/user-attachments/assets/9a940e5b-37d1-4961-9ec2-895aed274127)
